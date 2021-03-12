@@ -8,16 +8,16 @@ Set seed:\
 41737\
 \
 ------------------------------\
-It's your turn to pass the pigs!\
+It's your turn to pass the pigs!
 1. Other combo: Side (no dot) + Trotter, 5 points\
 5 points gathered this round!\
 Enter "yes" if you want to continue your turn.\
-yes\
+yes
 2. Other combo: Trotter + Razorback, 10 points\
 15 points gathered this round!\
 Enter "yes" if you want to continue your turn.\
-no\
-Press enter to continue.\
+no
+Press enter to continue.
 
 ------------------------------
 It's computer's turn to pass the pigs!\
@@ -25,10 +25,10 @@ It's computer's turn to pass the pigs!\
 60 points gathered this round!\
 The total score of 60 (>= 60) points reached! The turn ends.\
 Press enter to continue.\
-\
+
 ------------------------------\
 Your score: 15\
 Computer's score: 60\
-\
+
 Computer won!\
 [execution of the program ends]
