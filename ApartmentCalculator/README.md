@@ -1,0 +1,5 @@
+# Problem description
+The user dreams of an apartment of their own. However, they don't want to get a mortgage but would rather save enough money for the apartment. Write a program that calculates how long it takes the user to save for the apartment based on the inputted information.
+
+# Progression of the program
+First the program asks the user for the price of the apartment, the user's monthly salary, how many percent the salary increases per year, how many percent of the salary the user will save and the user's savings. All values are inputted as integers. (However, it is okay to handle decimal numbers in the calculations if needed, so use the normal division / instead of floor division //, for example.) The program calculates and prints how much money the user still needs for the apartment and how long they have to save in order to have enough money for the apartment. The time is printed in full years and months. If the time required for saving is full years, the months will not be printed at all. See example executions of the program for the exact outputs.
