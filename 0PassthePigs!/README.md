@@ -20,15 +20,15 @@ no
 Press enter to continue.
 
 ------------------------------
-It's computer's turn to pass the pigs!\
+It's computer's turn to pass the pigs!
 1. Double Leaning Jowler, 60 points\
 60 points gathered this round!\
 The total score of 60 (>= 60) points reached! The turn ends.\
-Press enter to continue.\
+Press enter to continue.
 
 ------------------------------\
 Your score: 15\
-Computer's score: 60\
+Computer's score: 60
 
 Computer won!\
 [execution of the program ends]
